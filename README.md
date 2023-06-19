@@ -31,3 +31,8 @@ Un objet est une instance de classe qui permet aux programmeurs d'utiliser des v
 
 # Patrons de conception
 
+[Patrons de conception]([https://github.com/kousseylakadri/Entretie/edit/main/README.md](https://refactoring.guru/fr/design-patterns/creational-patterns)https://refactoring.guru/fr/design-patterns/creational-patterns)
+
+![p1](patron1.png).
+
+![p2](patron2.png).
