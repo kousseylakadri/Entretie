@@ -3,7 +3,7 @@ La Programmation Orientée Objet (ou POO) est un paradigme (modèle) de programm
 ## Exemple
 un exemple dans la vrai vie, une voiture est un objet, avec ses attributs (type, modèle, prix, couleurs, etc…) et ses méthodes (accélérer, ralentir, tourner, freiner, etc.).
 
-![POO]("car-poo.png").
+![POO](car-poo.png).
 
 # Principes de la POO
 - **L’encapsulation** masque les détails d’implémentation d’une classe à d’autres objets.
