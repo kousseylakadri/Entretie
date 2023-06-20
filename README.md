@@ -1,3 +1,4 @@
+[C#](https://exercism.org/tracks/csharp/concepts)
 # Programmation Orientée Objet
 La Programmation Orientée Objet (ou POO) est un paradigme (modèle) de programmation dans lequel les programmes sont écrits et structurés autour des objets.
 
@@ -12,7 +13,7 @@ un exemple dans la vrai vie, une voiture est un objet, avec ses attributs (type,
 - **L’héritage** est un moyen de former de nouvelles classes en utilisant des classes déjà définies.
 - **Le polymorphisme** est le processus d’utilisation d’un opérateur ou d’une fonction de différentes manières pour différentes entrées de données.
 - **L’abstraction** simplifie la réalité complexe en modélisant des classes appropriées au problème.
-  
+- **L'nterface** En termes simples, une interface est comme un contrat, où chaque membre ou composant inclus dans le corps doit suivre le contrat
 # Une Class
 Une classe est un plan de déclaration et de création d'objets.
 
