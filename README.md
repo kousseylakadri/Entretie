@@ -1,5 +1,7 @@
 # Programmation Orientée Objet
 La Programmation Orientée Objet (ou POO) est un paradigme (modèle) de programmation dans lequel les programmes sont écrits et structurés autour des objets.
+
+![test](https://i.stack.imgur.com/nAtpl.png)
 ## Exemple
 un exemple dans la vrai vie, une voiture est un objet, avec ses attributs (type, modèle, prix, couleurs, etc…) et ses méthodes (accélérer, ralentir, tourner, freiner, etc.).
 
@@ -36,3 +38,21 @@ Un objet est une instance de classe qui permet aux programmeurs d'utiliser des v
 ![p1](patron1.png).
 
 ![p2](patron2.png).
+
+# Test 
+
+| Type de test | définition | frameworks C# | frameworks Angular |
+|:--|:--|:--|:--|
+| Intégration | Consiste à tester comment certaines parties de l'application fonctionnent ensemble dans son ensemble (connexion de la BD) | xUnit | Karma et Jasmine |
+| Unitaire | Les tests unitaires se concentrent sur une seule partie d'une application, généralement une seule classe ou fonction |  | Karma et Jasmine |
+| E2E |  |  | Protractor to Cypress |
+
+# async et await
+
+Pour permettre à une méthode longue de retourner le trait immédiatement (ou en tout cas au plus vite), elle peut exécuter son code en créant un tâche (Task). Le mot clé await permet d’attendre la fin d’une telle tâche. Async permet de marquer une méthode qui fera usage de await.
+
+## Fixons les choses
+
+- Une méthode async ne peut retourner que void ou une Task.
+- Une Task peut ne retourner aucune valeur (autre que son état).
+- Une Task<montype> retourne des données de type “montype”.
