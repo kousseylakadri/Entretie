@@ -11,8 +11,10 @@ Le décorateur `@Component{()}` définit les métadonnées de votre composant.
 - Le décorateur `@Input()` permet d’implémenter des paramètres d’entrée dans le composant enfant qu’on pourra initialiser à partir du composant parent.
 ## Exemple
 ![Alt text](7.png)
+![Alt text](8.png)
 
 ![Alt text](3.png)
 ![Alt text](4.png)
+
 ![Alt text](5.png)
 ![Alt text](6.png)
