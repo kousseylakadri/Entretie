@@ -14,8 +14,11 @@ Le décorateur `@Component{()}` définit les métadonnées* de votre composant.
 ## Exemple
 ![Alt text](7.png)
 ![Alt text](8.png)
-
+# Constructeur [ici](https://www.telerik.com/blogs/angular-basics-angular-constructor-overview)
 ![Alt text](3.png)
+
+- Un `constructeur` Angular est une fonction utilisée pour initialiser une application Angular. Le constructeur est **exécuté lors de la première création de l'application**, et il est responsable de la configuration de l'environnement Angular. Le constructeur peut être utilisé pour **injecter des dépendances, définir les valeurs par défaut pour les propriétés et exécuter tout autre code d'initialisation nécessaire**.
+- Le préfixe `readonly` est utilisé pour rendre une propriété en lecture seule. Les membres en lecture seule sont accessibles en dehors de la classe, mais leur valeur ne peut pas être modifiée.
 ![Alt text](4.png)
 
 ![Alt text](5.png)
