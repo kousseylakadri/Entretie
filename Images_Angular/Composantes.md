@@ -2,8 +2,10 @@
 # @Component
 ![Alt text](1.png)
 
-Le décorateur `@Component{()}` définit les métadonnées de votre composant.
+Le décorateur `@Component{()}` définit les métadonnées* de votre composant.
   - Le `sélecteur:` nous permet de définir comment Angular identifie lorsque le composant est utilisé en HTML.
+
+*Une métadonnée est une « donnée qui fournit de l'information sur une autre donnée »
 # OnInit et @Input()    
 ![Alt text](2.png)
 
